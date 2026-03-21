@@ -1,2 +1,0 @@
-cd lab-03
-pip install -r .\requirements.txt
